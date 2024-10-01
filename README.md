@@ -61,6 +61,8 @@ Additionally, the GPT is equipped to handle complex queries related to Sourcedut
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 <br>
 [Sourceduty Strategist](https://github.com/sourceduty/Sourceduty_Strategist)
+<br>
+[Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
