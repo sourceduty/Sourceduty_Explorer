@@ -54,6 +54,9 @@ Additionally, the GPT is equipped to handle complex queries related to Sourcedut
    - Use blockchain technology to issue social tokens, creating a unique way for the community to engage and invest in Sourceduty.
 
 #
+![Truman](https://github.com/user-attachments/assets/8352613f-fede-4ebf-a0bb-ee460954012f)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
