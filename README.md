@@ -9,6 +9,9 @@
 Additionally, the GPT is equipped to handle complex queries related to Sourceduty’s operations, offering tailored advice on optimizing processes, enhancing service delivery, and exploring new business avenues. By integrating both broad industry research and specific operational guidance, it serves as a valuable resource for decision-making, helping the company stay ahead in a competitive market.
 
 #
+![Sourceduty](https://github.com/user-attachments/assets/6f24e020-c740-405a-b5bd-586798c9a1d5)
+
+#
 ### Opportunities for Sourceduty
 
 1. Expansion into Premium Content and Social Tokens
